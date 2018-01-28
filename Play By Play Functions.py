@@ -36,12 +36,15 @@ def dfFromDirectory(directory):
     return pbp_df
 
 # Filter the Play By Play dataframe by event. Context = True will include the 2 plays before and after the event
-def filterByEvent(pbp_df, eventmsgtype, eventmsgactiontype, context = False):
-    idx_list = pbp_df.index[(pbp_df['EVENTMSGTYPE'] == eventmsgtype) & (pbp_df['EVENTMSGACTIONTYPE'] == eventmsgactiontype)].tolist()
+def filterByEvent(pbp_df, e1, e2 = -1, context = False):
+    if e2 > -1:
+        idx_list = pbp_df.index[(pbp_df['EVENTMSGTYPE'] == e1) & (pbp_df['EVENTMSGACTIONTYPE'] == e2)].tolist()
+    else:
+        idx_list = pbp_df.index[pbp_df['EVENTMSGTYPE'] == e1].tolist()
     if context:
         filter_idx = []
         for idx in idx_list:
-            filter_idx.extend([idx-2, idx-1, idx, idx+1, idx+2])
+            filter_idx.extend([idx-2, idx-1, idx])
     else:
         filter_idx = idx_list
     play_df = pbp_df.iloc[filter_idx]

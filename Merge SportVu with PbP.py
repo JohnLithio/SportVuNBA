@@ -18,6 +18,6 @@ def mergeSVtoPBP(filename):
     sv = pd.read_csv(join(sv_dir, filename))
     pbp = pd.read_csv(join(pbp_dir, filename))
     pbp = pbp[['EVENTNUM', 'GAME_ID', 'EVENTMSGTYPE_DESCRIPTION', 'EVENTMSGACTIONTYPE_DESCRIPTION']]
-    df = pd.merge(sv, pbp, how='left', left_on = 'event.id', right_on = 'EVENTNUM')
+    df = pd.merge(sv, pbp, how='inner', left_on = 'event.id', right_on = 'EVENTNUM')
     
     return df
