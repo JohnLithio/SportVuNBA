@@ -1,0 +1,202 @@
+EVENTMSGTYPE,EVENTMSGACTIONTYPE,EVENTMSGTYPE_DESCRIPTION,EVENTMSGACTIONTYPE_DESCRIPTION
+1,0,Made Field Goal,No Shot
+1,1,Made Field Goal,3PT Jump Shot
+1,3,Made Field Goal,Hook Shot
+1,5,Made Field Goal,Layup
+1,7,Made Field Goal,Dunk
+1,40,Made Field Goal,Layup
+1,41,Made Field Goal,Running Layup
+1,42,Made Field Goal,Driving Layup
+1,43,Made Field Goal,Alley Oop Layup
+1,44,Made Field Goal,Reverse Layup
+1,45,Made Field Goal,3PT Jump Shot
+1,46,Made Field Goal,Running Jump Shot
+1,47,Made Field Goal,Turnaround Jump Shot
+1,48,Made Field Goal,Dunk
+1,49,Made Field Goal,Driving Dunk
+1,50,Made Field Goal,Running Dunk
+1,51,Made Field Goal,Reverse Dunk
+1,52,Made Field Goal,Alley Oop Dunk
+1,55,Made Field Goal,Hook Shot
+1,56,Made Field Goal,Running Hook Shot
+1,57,Made Field Goal,Driving Hook Shot
+1,58,Made Field Goal,Turnaround Hook Shot
+1,63,Made Field Goal,Fadeaway Jumper
+1,66,Made Field Goal,Jump Bank Shot
+1,67,Made Field Goal,Hook Bank Shot
+1,71,Made Field Goal,Finger Roll Layup
+1,72,Made Field Goal,Putback Layup
+1,73,Made Field Goal,Driving Reverse Layup
+1,74,Made Field Goal,Running Reverse Layup
+1,75,Made Field Goal,Driving Finger Roll Layup
+1,76,Made Field Goal,Running Finger Roll Layup
+1,77,Made Field Goal,Driving Jump Shot
+1,78,Made Field Goal,Floating Jump Shot
+1,79,Made Field Goal,Pullup Jump Shot
+1,80,Made Field Goal,Step Back Jump Shot
+1,81,Made Field Goal,Pullup Bank Shot
+1,82,Made Field Goal,Driving Bank Shot
+1,83,Made Field Goal,Fadeaway Bank Shot
+1,85,Made Field Goal,Turnaround Bank Shot
+1,86,Made Field Goal,Turnaround Fadeaway
+1,87,Made Field Goal,Putback Dunk
+1,93,Made Field Goal,Driving Bank Hook Shot
+1,96,Made Field Goal,Turnaround Bank Hook Shot
+1,97,Made Field Goal,Tip Layup Shot
+1,98,Made Field Goal,Cutting Layup Shot
+1,99,Made Field Goal,Cutting Finger Roll Layup Shot
+1,100,Made Field Goal,Running Alley Oop Layup Shot
+1,101,Made Field Goal,Driving Floating Jump Shot
+1,102,Made Field Goal,Driving Floating Bank Jump Shot
+1,103,Made Field Goal,3PT Running Pull-Up Jump Shot
+1,104,Made Field Goal,Step Back Bank Jump Shot
+1,105,Made Field Goal,Turnaround Fadeaway Bank Jump Shot
+1,106,Made Field Goal,Running Alley Oop Dunk
+1,107,Made Field Goal,Tip Dunk
+1,108,Made Field Goal,Cutting Dunk
+1,109,Made Field Goal,Driving Reverse Dunk
+1,110,Made Field Goal,Running Reverse Dunk
+2,0,Missed Field Goal,No Shot
+2,1,Missed Field Goal,Jump Shot
+2,2,Missed Field Goal,Running Jump Shot
+2,3,Missed Field Goal,Hook Shot
+2,5,Missed Field Goal,Layup
+2,7,Missed Field Goal,Dunk
+2,40,Missed Field Goal,Layup
+2,41,Missed Field Goal,Running Layup
+2,42,Missed Field Goal,Driving Layup
+2,43,Missed Field Goal,Alley Oop Layup
+2,44,Missed Field Goal,Reverse Layup
+2,45,Missed Field Goal,Jump Shot
+2,46,Missed Field Goal,3PT Running Jump Shot
+2,47,Missed Field Goal,Turnaround Jump Shot
+2,48,Missed Field Goal,Dunk
+2,49,Missed Field Goal,Driving Dunk
+2,50,Missed Field Goal,Running Dunk
+2,51,Missed Field Goal,Reverse Dunk
+2,52,Missed Field Goal,Alley Oop Dunk
+2,55,Missed Field Goal,Hook Shot
+2,56,Missed Field Goal,Running Hook Shot
+2,57,Missed Field Goal,Driving Hook Shot
+2,58,Missed Field Goal,Turnaround Hook Shot
+2,63,Missed Field Goal,Fadeaway Jumper
+2,66,Missed Field Goal,Jump Bank Shot
+2,67,Missed Field Goal,Hook Bank Shot
+2,71,Missed Field Goal,Finger Roll Layup
+2,72,Missed Field Goal,Putback Layup
+2,73,Missed Field Goal,Driving Reverse Layup
+2,74,Missed Field Goal,Running Reverse Layup
+2,75,Missed Field Goal,Driving Finger Roll Layup
+2,76,Missed Field Goal,Running Finger Roll Layup
+2,77,Missed Field Goal,Driving Jump Shot
+2,78,Missed Field Goal,Floating Jump Shot
+2,79,Missed Field Goal,Pullup Jump Shot
+2,80,Missed Field Goal,Step Back Jump Shot
+2,81,Missed Field Goal,3PT Pullup Bank Shot
+2,82,Missed Field Goal,Driving Bank Shot
+2,83,Missed Field Goal,Fadeaway Bank Shot
+2,85,Missed Field Goal,Turnaround Bank Shot
+2,86,Missed Field Goal,Turnaround Fadeaway Shot
+2,87,Missed Field Goal,Putback Dunk
+2,93,Missed Field Goal,Driving Bank Hook Shot
+2,96,Missed Field Goal,Turnaround Bank Hook Shot
+2,97,Missed Field Goal,Tip Layup
+2,98,Missed Field Goal,Cutting Layup
+2,99,Missed Field Goal,Cutting Finger Roll Layup
+2,100,Missed Field Goal,Running Alley Oop Layup
+2,101,Missed Field Goal,Driving Floating Jump Shot
+2,102,Missed Field Goal,Driving Floating Bank Jump Shot
+2,103,Missed Field Goal,3PT Running Pull-Up Jump Shot
+2,104,Missed Field Goal,Step Back Bank Jump Shot
+2,105,Missed Field Goal,Turnaround Fadeaway Bank Jump Shot
+2,106,Missed Field Goal,Running Alley Oop Dunk
+2,107,Missed Field Goal,Tip Dunk
+2,108,Missed Field Goal,Cutting Dunk
+2,109,Missed Field Goal,Driving Reverse Dunk
+3,10,Free Throw,Free Throw 1 of 1
+3,11,Free Throw,Free Throw 1 of 2
+3,12,Free Throw,Free Throw 2 of 2
+3,13,Free Throw,Free Throw 1 of 3
+3,14,Free Throw,Free Throw 2 of 3
+3,15,Free Throw,Free Throw 3 of 3
+3,16,Free Throw,Free Throw - Technical
+3,18,Free Throw,Free Throw 1 of 2 - Flagrant
+3,19,Free Throw,Free Throw 2 of 2 - Flagrant
+3,20,Free Throw,Free Throw 1 of 1 - Flagrant
+3,25,Free Throw,Free Throw 1 of 2 - Clear Path
+3,26,Free Throw,Free Throw 2 of 2 - Clear Path
+4,0,Rebound,Player Rebound
+4,1,Rebound,Team Rebound
+5,0,Turnover,No Turnover
+5,1,Turnover,Bad Pass Turnover
+5,2,Turnover,Lost Ball Turnover
+5,3,Turnover,Out Of Bounds Turnover
+5,4,Turnover,Traveling Turnover
+5,5,Turnover,Foul Turnover
+5,6,Turnover,Double Dribble Turnover
+5,7,Turnover,Discontinue Dribble Turnover
+5,8,Turnover,3 Second Violation Turnover
+5,9,Turnover,5 Second Violation Turnover
+5,10,Turnover,8 Second Violation Turnover
+5,11,Turnover,Shot Clock Violation
+5,12,Turnover,Inbound Turnover
+5,13,Turnover,Backcourt Violation Turnover
+5,15,Turnover,Offensive Goaltending Turnover
+5,17,Turnover,Lane Violation Turnover
+5,18,Turnover,Jump Ball Violation Turnover
+5,19,Turnover,Kicked Ball Violation Turnover
+5,20,Turnover,Illegal Assist Turnover
+5,21,Turnover,Palming Turnover
+5,33,Turnover,Punched Ball Turnover
+5,34,Turnover,Swinging Elbows Turnover
+5,35,Turnover,Basket from Below Turnover
+5,36,Turnover,Illegal Screen Turnover
+5,37,Turnover,Offensive Foul Turnover
+5,38,Turnover,5 Second Inbound Violation Turnover
+5,39,Turnover,Step Out of Bounds Turnover
+5,40,Turnover,Out of Bounds Lost Ball Turnover
+5,41,Turnover,Lost Ball Turnover
+5,43,Turnover,Player Out of Bounds Violation Turnover
+5,45,Turnover,Out of Bounds - Bad Pass Turnover
+6,1,Foul,Personal Foul
+6,2,Foul,Shooting Foul
+6,3,Foul,Loose Ball Foul
+6,4,Foul,Offensive Foul
+6,5,Foul,Intentional Foul
+6,6,Foul,Away From Play Foul
+6,9,Foul,Clear Path Foul
+6,10,Foul,
+6,11,Foul,Technical Foul
+6,12,Foul,Non-Unsportsmanlike Foul
+6,13,Foul,Hangining Technical Foul
+6,14,Foul,Flagrant Foul Type 1
+6,15,Foul,Flagrant Foul Type 2
+6,16,Foul,
+6,17,Foul,Defensive 3 Seconds Technical Foul
+6,18,Foul,Delay of Game Foul
+6,19,Foul,Taunting Foul
+6,26,Foul,Offensive Charge Foul
+6,27,Foul,Personal Block Foul
+6,28,Foul,Personal Take Foul
+6,29,Foul,Shooting Block Foul
+6,30,Foul,Too Many Players Technical Foul
+7,1,Violation,Delay of game Violation
+7,2,Violation,Defensive Goaltending Violation
+7,3,Violation,Lane Violation
+7,4,Violation,Jump Ball Violation
+7,5,Violation,Kicked Ball Violation
+7,6,Violation,Double Lane Violation
+8,0,Substitution,Player Substitution
+9,0,Timeout,
+9,1,Timeout,Timeout: Regular
+9,2,Timeout,Timeout: Short
+9,4,Timeout,
+10,0,Jump Ball,Start of Game Jump Ball
+11,1,Ejection,Ejection: Second Technical Foul
+11,3,Ejection,Ejection: Flagrant Foul Type 2
+11,4,Ejection,
+12,0,Start of Period,
+13,0,End of Period,
+18,0,Throwback,
+18,1,Throwback,
+18,2,Throwback,
